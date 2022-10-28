@@ -44,7 +44,7 @@
 # If the GPU is AMD RX 5XX or RX 4XX, but only the black screen is printed:
 
 1. Add keepsyms=1 alcid=1 in 'boot-args'.
-2. Check Apple Debug and ApplePanic in 'Misc' -> 'debug'.
+2. Check AppleDebug and ApplePanic in 'Misc' -> 'debug'.
 
 in this setting,
 The Rx570 worked well when I used it.
