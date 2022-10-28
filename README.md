@@ -7,8 +7,8 @@
 # My PC Setting:
 
 1. OS : MacOS Monterey 12.6
-2. CPU : i5 8500
-3. RAM : DDR4 Memory 48GB
+2. CPU : intel i5 8500
+3. RAM : Samsung DDR4 Memory 48GB
 4. GPU : Sapphire Pulse RX 6600XT 8G
 5. Board : Gigabyte b360m aorus pro
 
@@ -41,4 +41,10 @@
 - Peripherals->Super IO Configuration-> Serial Port Disable
 - Peripherals->SATA AND RST->SATA Mode selection-> AHCI
 
+# If the GPU is AMD RX 5XX or RX 4XX, but only the black screen is printed:
 
+1. Add keepsyms=1 alcid=1 in 'boot-args'.
+2. Check Apple Debug and ApplePanic in 'Misc' -> 'debug'.
+
+in this setting,
+The Rx570 worked well when I used it.
