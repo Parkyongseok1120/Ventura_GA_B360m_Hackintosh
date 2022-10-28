@@ -1,4 +1,4 @@
-# Monterey_GA_B360m_Aorus_PRO_Hackintosh
+# Monterey_GA-B360m-Aorus-PRO_Hackintosh
  https://github.com/parkyongsunk/Hackintosh-GA-B360m-aorus-Pro-Monterey
 
 ![스크린샷 2022-10-29 오전 1 26 29](https://user-images.githubusercontent.com/41354468/198688380-2e2e14a2-f3b2-45db-b57a-5f61575ecf6e.png)
