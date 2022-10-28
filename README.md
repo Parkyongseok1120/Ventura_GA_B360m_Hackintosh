@@ -26,7 +26,7 @@ https://github.com/Parkyongseok1120/Monterey_B360m_Hackintosh/blob/main/README.m
 9. Sound
 
 # Not Works:
-1. iGPU(Maybe...Confirmation required.)
+1. iGPU(Maybe...Confirmation required. It doesn't seem to work.)
 2. LAN(My computer is using a USB converter Lan.)
 
 # Tasks to be done before execution:
