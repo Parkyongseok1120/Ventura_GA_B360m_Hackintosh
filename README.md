@@ -4,13 +4,14 @@
 ![스크린샷 2022-10-29 오전 1 26 29](https://user-images.githubusercontent.com/41354468/198688380-2e2e14a2-f3b2-45db-b57a-5f61575ecf6e.png)
 
 
-1. OS : MacOS Montery 12.6
+#My PC Setting:
+
+1. OS : MacOS Monterey 12.6
 2. CPU : i5 8500
 3. RAM : DDR4 Memory 48GB
 4. GPU : Sapphire Pulse RX 6600XT 8G
 5. Board : Gigabyte b360m aorus pro
 
-BIos Setting
 
 # What Works:
 
