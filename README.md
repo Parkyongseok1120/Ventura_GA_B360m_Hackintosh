@@ -7,7 +7,6 @@
 # Release version : 
 
 **Latest Version Release** : https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackintosh/releases/tag/Hackintosh_v2.0
-
 Previous Releases: https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackintosh/releases
 
 
