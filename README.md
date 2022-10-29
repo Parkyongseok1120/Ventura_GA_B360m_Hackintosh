@@ -1,7 +1,8 @@
 # Monterey_GA-B360m-Aorus-PRO_Hackintosh
 
 
-https://user-images.githubusercontent.com/41354468/198819953-93b99c8a-10eb-49e7-9ce3-e4d05b02ccc9.png
+![스크린샷 2022-10-29 오후 3 57 14](https://user-images.githubusercontent.com/41354468/198820199-e0751a61-e674-4bad-a43d-f1e8e48e22b0.png)
+
 
 # Release version : 
 
