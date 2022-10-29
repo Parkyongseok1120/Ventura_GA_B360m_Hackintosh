@@ -1,7 +1,12 @@
 # Monterey_GA-B360m-Aorus-PRO_Hackintosh
-https://github.com/Parkyongseok1120/Monterey_B360m_Hackintosh/blob/main/README.md
 
-![스크린샷 2022-10-29 오전 1 26 29](https://user-images.githubusercontent.com/41354468/198688380-2e2e14a2-f3b2-45db-b57a-5f61575ecf6e.png)
+https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackintosh#readme
+https://user-images.githubusercontent.com/41354468/198819953-93b99c8a-10eb-49e7-9ce3-e4d05b02ccc9.png
+
+# Release version : 
+
+Latest Version Release : https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackintosh/releases/tag/Hackintosh_v2.0
+Previous Releases: https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackintosh/releases
 
 
 # My PC Setting:
