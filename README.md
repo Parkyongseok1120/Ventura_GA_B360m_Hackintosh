@@ -13,7 +13,7 @@ Previous Releases: https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackinto
 
 # My PC Setting:
 
-1. OS : MacOS Monterey 12.6
+1. OS : MacOS Ventura 13.0
 2. CPU : intel i5 8500
 3. RAM : Samsung DDR4 Memory 48GB
 4. GPU : Sapphire Pulse RX 6600XT 8G
