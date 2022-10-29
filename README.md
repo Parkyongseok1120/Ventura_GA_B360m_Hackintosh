@@ -38,7 +38,7 @@ Previous Releases: https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackinto
 
 # Tasks to be done before execution:
 
-**1. Add SMBIOS content.**
+**1. Add SMBIOS content** : 
 As you can see in the picture, there is no content of SMBIOS, so you must add it and use it.
 
 ![스크린샷 2022-10-29 오후 4 56 53](https://user-images.githubusercontent.com/41354468/198820641-1b975c9a-8753-4ad9-a290-fa6e0a9152b1.png)
