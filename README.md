@@ -55,6 +55,8 @@ As you can see in the picture, there is no content of SMBIOS, so you must add it
 - Peripherals->Super IO Configuration-> Serial Port Disable
 - Peripherals->SATA AND RST->SATA Mode selection-> AHCI
 
+--------------
+
 # If the GPU is AMD RX 5XX or RX 4XX, but only the black screen is printed:
 
 1. Add keepsyms=1 alcid=1 in 'boot-args'.
