@@ -13,11 +13,13 @@ Previous Releases: https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackinto
 
 # My PC Setting:
 
-1. OS : MacOS Ventura 13.0
+1. Last OS version : MacOS Ventura 13.4
 2. CPU : intel i5 8500
 3. RAM : Samsung DDR4 Memory 48GB
 4. GPU : Sapphire Pulse RX 6600XT 8G
 5. Board : Gigabyte b360m aorus pro
+5.1 Compatible boards : ASUS PRIME B360M-A STCOM or Other B360m Board
+**Completed operation test on ASUS PRIME B360M-ASTCOM.**
 
 
 # What Works:
@@ -47,6 +49,8 @@ As you can see in the picture, there is no content of SMBIOS, so you must add it
 
 
 **2. Bios Setting:**
+
+Gigabyte Board Setup
 
 - BIOS->CSM Support disable
 - BIOS->Windoews 8/10 Features ->Other OS
