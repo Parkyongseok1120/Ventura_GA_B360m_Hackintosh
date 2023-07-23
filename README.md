@@ -18,7 +18,9 @@ Previous Releases: https://github.com/Parkyongseok1120/Ventura_GA_B360m_Hackinto
 3. RAM : Samsung DDR4 Memory 48GB
 4. GPU : Sapphire Pulse RX 6600XT 8G
 5. Board : Gigabyte b360m aorus pro
-5.1 Compatible boards : ASUS PRIME B360M-A STCOM or Other B360m Board
+6. Compatible boards : ASUS PRIME B360M-A STCOM or Other B360m Board
+
+
 **Completed operation test on ASUS PRIME B360M-ASTCOM.**
 
 
